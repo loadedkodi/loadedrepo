@@ -1,0 +1,92 @@
+
+v1.0 (1/11/16)
+
+- First released
+
+v1.1 (11/11/16) - Major Update
+
+- Add on and menu tweaks
+- IPTV for all of the Live TV section
+- Smaller build size for faster running and quicker download
+
+v1.2 (12/11/16) - Major Update
+
+- Fix for splash images not appearing
+- Visual tweaks to the menu
+- Updated splash images
+- Added RSS feed
+
+v1.2.1 (13/11/16) - Minor Update
+
+- Submenu's blocked by the RSS feed are now fixed
+
+v1.3 (19/11/16) - Minor Update
+
+- Advanced settings to help reduce buffering added
+- Music section added (Spotify requires premium account)
+- Other minor tweaks
+
+v1.4 (22/11/16) - Major Update
+
+- Fixed links for 'Reduce Buffering' in the System submenu (formerly 'Stop Buffering')
+- Removed Spotify (As it did not work on Android devices)
+- Removed Sports TV in the Live TV section 
+- RSS updates
+- Added Vader Streams Premium IPTV (Visit link.jackf.tk/vaderstreams to order the best paid IPTV)
+- Added Evolve
+- Main menu tweaks
+- Echo Wizard is now fully working
+- Added Music TV to the Live TV section
+- Other minor tweaks
+
+v1.5 (25/11/16) - Minor Update
+
+- Added Kids Corner
+- Menu Tweaks
+
+v1.6 (2/12/16) - Minor Update
+
+- Bug Fixes related to new installs failing when download starts
+
+v1.7 (11/12/16) - Minor Update
+
+- Bug Fixes related to new installs
+
+v1.7.1 (13/12/16) - Beta Update
+
+- Aeon Nox has been slightly skinned to suit Loaded.
+- Sportie (also in beta) has been added
+
+v1.8 (19/12/16) - Major Update
+- Major update related to the wizard
+- New installer
+- New maintenance tools
+- New auto update
+- Sportie released out of beta testing
+- New skinned version out of beta testing
+- Other minor tweaks and fixes
+
+V1.9 (24/12/15) - Major Update
+
+- Bug Fixes
+- Clean up of addons
+- New addons
+- Broken addons removed
+
+v1.9.1 (25/12/16) - Minor Update
+
+- Merry Christmas!
+- Loaded Repo added
+- Teevie re-added
+
+Disclaimer
+- Loaded are not responsible for the content streamed to your device and neither do we condone piracy so you must satisfy yourself that either you or the sites accessed for streaming have the copyright agreements in place and are entitled to access this content.
+
+- We do not host or upload any video, films, media file, live streams (avi, mov, flv, mpg, mpeg, divx, dvd rip, mp3, mp4, torrent, ipod, psp). Loaded is not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of streamed from your device. If you have any legal issues please contact the appropriate media file owners or host sites.
+
+- We have no control over the links on any site that we provide a link to. If you see any form of infringements, please contact appropriate media file owners or host sites immediately.
+
+Credits
+
+- Build by Jack Finney (Twitter: @jackfinn3y // Website: jackfinn3y.co.uk).
+- Installer edited from TechTimeruuu (Twitter @techtimeruuu // Website: spartanpixel.org) and Husham (Twitter: @hmemar // Website: husham.com).
